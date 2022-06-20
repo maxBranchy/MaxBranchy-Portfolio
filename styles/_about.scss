@@ -18,10 +18,10 @@
       font-family: variables.$font-tittle;
       font-size: 2rem;
       color: variables.$color-morado-oscuro;
-      margin-bottom: 1em;
+      margin-bottom: .5em;
     }
     .about__description {
-      font-size: 1rem;
+      font-size: .9rem;
       font-family: variables.$font-ubuntu;
       color: variables.$color-morado-oscuro;
       margin-bottom: 2em;
@@ -56,10 +56,10 @@
   }
 
   &__picture {
-    padding-top: 2em;
+    padding-top: 1.5em;
     .about__img {
       margin: 0 auto;
-      width: 80%;
+      width: 100%;
       height: 100%;
       object-fit: cover;
       object-position: center;
